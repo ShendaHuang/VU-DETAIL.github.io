@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Dongning Ma
+category: jekyll_update
 permalink: /people/dma
 ---
 
