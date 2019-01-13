@@ -4,5 +4,5 @@ title: Publication
 permalink: /publication/
 ---
 
-# Conference
-# Journal
+## Conference
+## Journal
