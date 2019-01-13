@@ -1,14 +1,16 @@
 ---
-layout: page
+layout: post
 title: Dongning Ma
-category: jekyll_update
 permalink: /people/dma
 ---
 
 # Dongning Ma
 Ph.D. Candidate
+
 Department of Electrical and Computer Engineering
+
 Villanova University
+
 Email: dma2@villanova.edu
 
 ## About me
