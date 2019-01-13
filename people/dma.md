@@ -1,9 +1,9 @@
-
 ---
 layout: page
 title: Dongning Ma
-permalink: /people/
+permalink: /people/dma
 ---
+
 #Dongning Ma
 Ph.D. Candidate
 Department of Electrical and Computer Engineering
