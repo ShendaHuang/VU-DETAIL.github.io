@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Dongning Ma
 permalink: /people/dma
 ---
@@ -14,7 +14,7 @@ Villanova University
 Email: dma2@villanova.edu
 
 ## About me
-Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CE) from [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html) in [Villanova University](https://villanova.edu/). He obtained his Bachelor of Engineering degree from [University of Science and Technology Beijing](https://www.ustb.edu.cn).
+Dongning Ma is a **Ph.D.** candidate in Computer Engineering (CE) from [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html) in [Villanova University](https://www1.villanova.edu/). He obtained his Bachelor of Engineering degree from [University of Science and Technology Beijing](https://www.ustb.edu.cn).
 ## Research & Publication
 ### Conference
 ### Journal
