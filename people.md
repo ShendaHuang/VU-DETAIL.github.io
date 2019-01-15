@@ -11,6 +11,7 @@ permalink: /people/
 [Dongning Ma (2019 Spring - )](./dma)
 ### Master Students
 ### Undergraduate Students
+[Shenda Huang (2018 Fall)](./sdh)
 ### Visiting Scholars
 
 ## Alumni
