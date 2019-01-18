@@ -11,6 +11,8 @@ permalink: /people/xjiao
 
 [Villanova University](https://www1.villanova.edu/university.html)
 
+![alt text](http://www.ece.villanova.edu/~xjiao/)
+
 Email: xjiao@villanova.edu
 
 ## About me
