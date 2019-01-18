@@ -15,4 +15,4 @@ First-Year Undergraduate (Since 2018 Fall)
 Email: <a href="shuang9@villanova.edu">shuang9@villanova.edu</a>
 ## Research
 
-<img src="/docs/GSL.jpg" alt="My cool logo"/>
+<iframe src="http://www.ece.villanova.edu/~xjiao/image/GSL.jpg" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
