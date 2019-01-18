@@ -15,5 +15,4 @@ First-Year Undergraduate (Since 2018 Fall)
 Email: <a href="shuang9@villanova.edu">shuang9@villanova.edu</a>
 ## Research
 
-response = request('http://www.ece.villanova.edu/~xjiao/image/GSL.jpg')
-assert_equal(200, response.code)
+<img src="/docs/GSL.jpg" alt="My cool logo"/>
