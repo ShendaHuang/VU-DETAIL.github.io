@@ -16,4 +16,4 @@ Email: xjiao@villanova.edu
 ## About me
 [**Homepage**](http://www.ece.villanova.edu/~xjiao/)
 
-(http://www.ece.villanova.edu/~xjiao/)
+![Alt text](http://www.ece.villanova.edu/~xjiao/)
