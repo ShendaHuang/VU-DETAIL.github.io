@@ -12,5 +12,5 @@ Computer Engineering
 
 [Villanova University](https://www1.villanova.edu/university.html)
 
-Email: [xwang7@villanova.edu](a href="mailto:xwang7@villanova.edu)
+Email: [xwang7@villanova.edu]
 ## Research
