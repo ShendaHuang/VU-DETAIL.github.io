@@ -5,7 +5,7 @@ permalink: /people/xjiao
 ---
 
 # Xun Jiao
-Assistant Professor (since 2018 Fall)
+[Assistant Professor](https://www1.villanova.edu/villanova/engineering/faculty/facstaff/facultyelectrical/biodetail.html?mail=xun.jiao@villanova.edu&xsl=bio_long) (since 2018 Fall)
 
 [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html)
 
