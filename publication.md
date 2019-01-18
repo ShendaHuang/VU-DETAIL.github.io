@@ -10,9 +10,9 @@ permalink: /publication/
 CLIM: A Cross-level Workload-aware Timing Error Prediction Model for Functional Units. [PDF](http://www.ece.villanova.edu/~xjiao/paper/TC.pdf) 
 IEEE Transactions on Computers (TC) 2017 .
 
-Yu Jiang , Hehua Zhang , Xiaoyu Song, **Xun Jiao**, William N. N. Hung, and Jiaguang Sun.
-Bayesian Network Based Reliability Analysis of PLC Systems. [PDF](http://www.ece.villanova.edu/~xjiao/paper/TIE.pdf)
-IEEE Transaction on Industry Electronics (TIE) 2013.
+  - Yu Jiang , Hehua Zhang , Xiaoyu Song, **Xun Jiao**, William N. N. Hung, and Jiaguang Sun.
+  Bayesian Network Based Reliability Analysis of PLC Systems. [PDF](http://www.ece.villanova.edu/~xjiao/paper/TIE.pdf)
+  IEEE Transaction on Industry Electronics (TIE) 2013.
 
 Xibing Zhao, Hehua Zhang, Yu Jiang, Songzheng Song, **Xun Jiao**, and Ming Gu.
 An Effective Heuristic Based Approach for partitiong. [PDF](http://www.ece.villanova.edu/~xjiao/paper/HINDAWI.pdf)
