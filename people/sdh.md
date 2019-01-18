@@ -8,6 +8,8 @@ First-Year Undergraduate (Since 2018 Fall)
 
 Department of Electrical and Computer Engineering
 
+Computer Engineering
+
 Villanova University
 
 Email: shuang9@villanova.edu
