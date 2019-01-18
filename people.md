@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 ## Principal Investigator
-[Xun Jiao]()
+[Xun Jiao (2018 Fall)](./xjiao)
 
 ## Members
 ### Ph.D. Students
