@@ -7,6 +7,6 @@ date: 2019-1-18 14:14:50 -0500
 
 [special session on dependable cyber-physical system](http://cse.stfx.ca/~cybermatics/2019/cpscom/CPSComDCPS.php)
 
-[CPSCOM-2019](http://cse.stfx.ca/~cybermatics/2019/cpscom/index.php)
+[IEEE International Conference on Cyber Physical and Social Computing (CPSCOM-2019)](http://cse.stfx.ca/~cybermatics/2019/cpscom/index.php)
 
 
