@@ -12,5 +12,5 @@ First-Year Undergraduate (Since 2018 Fall)
 
 [Villanova University](https://www1.villanova.edu/university.html)
 
-Email: <li><a href="shuang9@villanova.edu">shuang9@villanova.edu</a>
+Email: <a href="shuang9@villanova.edu">shuang9@villanova.edu</a>
 ## Research
