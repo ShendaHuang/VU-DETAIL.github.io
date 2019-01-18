@@ -12,7 +12,5 @@ First-Year Undergraduate (Since 2018 Fall)
 
 [Villanova University](https://www1.villanova.edu/university.html)
 
-<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-
-Email: shuang9@villanova.edu
+Email: <li><a href="shuang9@villanova.edu">shuang9@villanova.edu</a></li>
 ## Research
