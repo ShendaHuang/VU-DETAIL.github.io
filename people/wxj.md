@@ -10,7 +10,7 @@ Department of Electrical and Computer Engineering
 
 Computer Engineering
 
-Villanova University
+[Villanova University](https://www1.villanova.edu/university.html
 
-Email: xwang7@villanova.edu
+Email: xwang7@villanova.edu(a href="mailto:xwang7@villanova.edu)
 ## Research
