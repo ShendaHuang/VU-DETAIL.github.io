@@ -6,7 +6,7 @@ permalink: /people/wxj
 # Xingjian Wang
 First-Year Undergraduate (Since 2018 Fall)
 
-[Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html）
+[Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html)
 
 [Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece/undergrad/bachelors-cpe.html)
 
