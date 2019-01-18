@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Shenda Huang
-permalink: /people/sdh
+title: Xingjian Wang
+permalink: /people/wxj
 ---
-# Shenda Huang
+# Xingjian Wang
 First-Year Undergraduate (Since 2018 Fall)
 
 [Department of Electrical and Computer Engineering](https://www1.villanova.edu/villanova/engineering/departments/ece.html)
@@ -12,5 +12,5 @@ First-Year Undergraduate (Since 2018 Fall)
 
 [Villanova University](https://www1.villanova.edu/university.html)
 
-Email: <a href="shuang9@villanova.edu">shuang9@villanova.edu</a>
+Email: <a href="xwang7@villanova.edu">xwang7@villanova.edu</a>
 ## Research
