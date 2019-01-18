@@ -14,5 +14,3 @@ First-Year Undergraduate (Since 2018 Fall)
 
 Email: <a href="shuang9@villanova.edu">shuang9@villanova.edu</a>
 ## Research
-
-![image](https://github.com/VU-DETAIL/VU-DETAIL.github.io/blob/master/Xunjiao.jpg)
