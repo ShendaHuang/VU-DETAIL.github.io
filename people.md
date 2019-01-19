@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 ---
 ## Principal Investigator
-[Xun Jiao (2018 Fall)](./xjiao)
+[Xun Jiao](http://www.ece.villanova.edu/~xjiao/)
 
 ## Members
 ### Ph.D. Students
