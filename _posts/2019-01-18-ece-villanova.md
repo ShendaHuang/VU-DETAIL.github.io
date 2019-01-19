@@ -1,12 +1,9 @@
 ---
 layout: post
-title:  "[NEWS] Appointed as Associate Editor of IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD) in 12/2018!"
+title:  "[NEWS]  Joined ECE department of Villanova University as tenure-track assistant professor this fall. I am looking for self-motivated Ph.D. students to join my group working on energy-efficient machine learning accelerator. For more information, please look here. 
 date: 2019-01-18 13:47:30 -0500
 
 ---
-
-Welcome!
-
 
 [ECE department](https://www1.villanova.edu/villanova/engineering/departments/ece.html)
 
