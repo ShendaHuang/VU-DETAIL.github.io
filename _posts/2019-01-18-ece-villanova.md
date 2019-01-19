@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "[NEWS]  Joined ECE department of Villanova University
-date: 2019-01-18 13:47:30 -0500
+title: "[NEWS]Joined ECE department of Villanova University as tenure-track assistant professor this fall.(08/2018) I am looking for self-motivated Ph.D. students to join my group working on energy-efficient machine learning accelerator. For more information, please look here. "
+date: 2019-1-18 14:28:01 -0500
 
 ---
 
