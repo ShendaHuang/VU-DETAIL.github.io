@@ -23,7 +23,7 @@ IEEE Transaction on Industry Electronics (TIE) 2013.
   in Proc. IEEE/ACM Design, Automation, and Test in Europe (DATE), Dresden, Germany, 2018.
 
   - Mingzhe Wang, Jie Liang, Yuanliang Chen, Yu Jiang, **Xun Jiao**, Han Liu, Xibin Zhao, Jiaguang Sun
-  SAFL: increasing and accelerating testing coverage with symbolic execution and guided fuzzing. [PDF](http://www.ece.villanova.edu/~xjiao/papers/ICSE18.pdf)
+  SAFL: increasing and accelerating testing coverage with symbolic execution and guided fuzzing. [PDF](http://www.ece.villanova.edu/~xjiao/paper/ICSE18.pdf)
   in Proc. International Conference on Software Engineering (ICSE-Tool), Gothenburg, Sweden, 2018.
 
   - **Xun Jiao**, Mulong Luo, Jeng-Hau Lin, and Rajesh Gupta
