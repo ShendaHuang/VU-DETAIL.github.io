@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Xingjian Wang
-permalink: /people/wxj
+permalink: /people/xwang
 ---
 # Xingjian Wang
 First-Year Undergraduate (Since 2018 Fall)
