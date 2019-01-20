@@ -13,7 +13,7 @@ permalink: /people/
 ### Undergraduate Students
 [Shenda Huang (2018 Fall - )](./shuang)
 
-[Xingjiang Wang (2018 Fall - )](./wxj)
+[Xingjiang Wang (2018 Fall - )](./xwang)
 ### Visiting Scholars
 
 ## Alumni
