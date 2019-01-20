@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shenda Huang
-permalink: /people/sdh
+permalink: /people/shuang
 ---
 # Shenda Huang
 First-Year Undergraduate (Since 2018 Fall)
