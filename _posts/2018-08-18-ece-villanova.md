@@ -10,3 +10,5 @@ date: 2018-08-18 14:28:01 -0500
 [Villanova University](https://www1.villanova.edu/university.html)
 
 [PDF](http://www.ece.villanova.edu/~xjiao/other/recruit.pdf)
+
+.markdown-preview.markdown-preview { p, ul, ol {font-size: 1.2em;} }
